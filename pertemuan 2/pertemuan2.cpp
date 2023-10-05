@@ -22,7 +22,7 @@ int main()
   buatlistbaru();
   sisipnode(50);
   sisipnode(20);
-  sisipnode(5);
+  sisipnode(30);
   sisipnode(100);
   sisipnode(70);
   sisipnode(25);
